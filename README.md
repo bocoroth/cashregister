@@ -1,0 +1,2 @@
+# cashregister
+A coding exercise
