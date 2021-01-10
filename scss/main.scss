@@ -1,0 +1,25 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/mixins";
+
+body {
+  background-color: $dark;
+}
+
+.container {
+  .form-container {
+    border-radius: 20px;
+    padding: 20px;
+  }
+}
+
+h1 {
+  font-weight: bold;
+  line-height: 0.75;
+
+  .text-muted {
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 75%;
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Creative Cash Draw Solutions API",
+  "version": "1.0.0",
+  "description": "API for the cash register user interface.",
+  "apidoc": {
+    "title": "Cash Register Interface",
+    "url" : "/api"
+  }
+}

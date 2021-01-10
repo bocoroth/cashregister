@@ -1,0 +1,18 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "outDir": "js",
+    "allowJs": true,
+    "removeComments": false,
+    "lib": ["dom", "es2019"],
+    "target": "es5"
+  },
+  "include": [
+    "ts/**/*",
+    "node_modules/@types/**/*"
+  ],
+  "standard": {
+    "parser": "typescript-eslint-parser",
+    "plugins": [ "typescript" ]
+  }
+}
